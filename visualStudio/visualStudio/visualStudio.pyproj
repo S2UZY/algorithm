@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d01fd9ab-db1c-484e-addf-98cbf69eba53</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1935-후위표기식.py</StartupFile>
+    <StartupFile>11724-연결요소.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,19 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="11724-연결요소.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DFS,BFS.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1449-수리공항승.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="17086-아기상어.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1931-회의실배정.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1935-후위표기식.py">
