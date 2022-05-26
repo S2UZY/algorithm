@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d01fd9ab-db1c-484e-addf-98cbf69eba53</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>11724-연결요소.py</StartupFile>
+    <StartupFile>1987-알파벳.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="11724-연결요소.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1987-알파벳.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2178-미로탐색.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DFS,BFS.py">
