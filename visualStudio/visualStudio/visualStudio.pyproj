@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d01fd9ab-db1c-484e-addf-98cbf69eba53</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1987-알파벳.py</StartupFile>
+    <StartupFile>11726-2xn 타일링.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,13 +21,34 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="10816-숫자카드2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="11724-연결요소.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="11726-2xn 타일링.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1463-1로만들기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1743-음식물피하기2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="1987-알파벳.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2178-미로탐색.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2805-나무자르기.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7562-나이트의 이동.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bisect_example.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DFS,BFS.py">
